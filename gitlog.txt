@@ -1,0 +1,41 @@
+commit 4707dbd517da1cd5a186fb60791b94cb21277d01
+Author: hpurdum-mines <hpurdum@mymail.mines.edu>
+Date:   Sun Feb 21 16:03:25 2021 -0800
+
+    more color changes
+
+commit 35a94091e2827cf9937fe795e1816425810da49b
+Author: cameron-fitz <fitzgerald@mymail.mines.edu>
+Date:   Sun Feb 21 17:00:20 2021 -0700
+
+    changed mouth color to orange
+
+commit 37c72924104d41766d687bcc4d78d5003e081ac7
+Author: hpurdum-mines <hpurdum@mymail.mines.edu>
+Date:   Sun Feb 21 15:57:30 2021 -0800
+
+    changes to color and frame size
+
+commit 98fff69f5a58f157b2e4d63747a3aadc7f0a76a9
+Author: cameron-fitz <fitzgerald@mymail.mines.edu>
+Date:   Sun Feb 21 16:48:45 2021 -0700
+
+    changed head dimension and eye location
+
+commit 5cff0377918f769821238873a98b2ee2f6ed6845
+Author: hpurdum <henrypurdum@gmail.com>
+Date:   Sun Feb 21 15:22:52 2021 -0800
+
+    files added
+
+commit 206f30c3c8c81d1d117ee2551c071d67283d5e42
+Author: hpurdum-mines <78001273+hpurdum-mines@users.noreply.github.com>
+Date:   Sun Feb 21 15:07:54 2021 -0800
+
+    Create README.md
+
+commit 48a4e139fe1f9b7302b242ee8599dc55b7f021be
+Author: hpurdum-mines <78001273+hpurdum-mines@users.noreply.github.com>
+Date:   Sun Feb 21 15:07:43 2021 -0800
+
+    Initial commit
